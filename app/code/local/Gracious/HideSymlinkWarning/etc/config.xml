@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Gracious_HideSymlinkWarning>
+            <version>1.0.0</version>
+        </Gracious_HideSymlinkWarning>
+    </modules>
+    <global>
+        <helpers>
+            <disablesymlinkwarning>
+                <class>Gracious_HideSymlinkWarning_Helper</class>
+            </disablesymlinkwarning>
+        </helpers>
+    </global>
+    <adminhtml>
+        <layout>
+            <updates>
+                <mymodule>
+                    <file>gracious/symlinks/symlinks.xml</file>
+                </mymodule>
+            </updates>
+        </layout>
+    </adminhtml>
+</config>

@@ -1,0 +1,10 @@
+{
+    "name": "gracious/magento1-hide-symlink-warning",
+    "description": "Hides warning in admin when symlinks are enabled",
+    "type": "magento-module",
+    "homepage": "https://github.com/graciousagency/magento1-hide-symlink-warning",
+    "license": "MIT",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "3.*"
+    }
+}

@@ -1,0 +1,3 @@
+app/code/local/Gracious/HideSymlinkWarning/etc/config.xml app/code/local/Gracious/HideSymlinkWarning/etc/config.xml
+app/design/adminhtml/default/default/layout/gracious/symlinks/symlinks.xml app/design/adminhtml/default/default/layout/gracious/symlinks/symlinks.xml
+app/etc/modules/Gracious_HideSymlinkWarning.xml app/etc/modules/Gracious_HideSymlinkWarning.xml
